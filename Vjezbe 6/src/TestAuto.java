@@ -108,7 +108,7 @@ public class TestAuto {
 		for (Auto a : AutoServis.neregistrovanikojisemoguregistrovati(auta)) {
 			System.out.println(a);
 		}
-		System.out.println(auta.get(0));
+		System.out.println(auta);
 	}
 }
 
